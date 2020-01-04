@@ -12,7 +12,7 @@
   "CleanupOnCancel": true,
   "WriteToLog": false,
   "Parameters": {
-    "getAccessTokenUrl": "<your-access-token-url>",
-    "projectID": "<your-project-id>"
+    "getAccessTokenUrl": "https://us-central1-mistyvoicecommand-rghjjx.cloudfunctions.net/get-access-token",
+    "projectID": "mistyvoicecommand-rghjjx"
   }
 }
